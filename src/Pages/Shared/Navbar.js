@@ -57,7 +57,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div class="navbar-end">
-                    <a class="btn btn-primary bg-[#001064]">Get started</a>
+                    <a class="btn btn-primary bg-[#001064] px-8">LOGIN</a>
                 </div>
             </div>
         </div>

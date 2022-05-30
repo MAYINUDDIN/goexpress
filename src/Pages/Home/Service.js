@@ -19,7 +19,7 @@ const Service = () => {
                         <p className='text-center'> <span className='text-dark text-sm'>আমরাই অল্প সময়ে ডেলিভারি নিশ্চিত করে থাকি</span></p>
 
                         <div class="card-actions justify-center">
-                            <button className='btn btn-primary btn-md rounded px-12 mt-2 ' >কোরিয়ার করুন</button>
+                            <button className='btn btn-primary btn-md rounded px-12 mt-2 ' >কুরিয়ার করুন</button>
 
                         </div>
                     </div>
@@ -36,7 +36,7 @@ const Service = () => {
                         <p className='text-center'> <span className='text-dark text-sm'>আমরাই অল্প সময়ে ডেলিভারি নিশ্চিত করে থাকি</span></p>
 
                         <div class="card-actions justify-center">
-                            <button className='btn btn-primary btn-md rounded px-12 mt-2 ' >কোরিয়ার করুন</button>
+                            <button className='btn btn-primary btn-md rounded px-12 mt-2 ' >কুরিয়ার  করুন</button>
 
                         </div>
                     </div>
@@ -53,14 +53,16 @@ const Service = () => {
                         <p className='text-center'> <span className='text-dark text-sm'>আমরাই অল্প সময়ে ডেলিভারি নিশ্চিত করে থাকি</span></p>
 
                         <div class="card-actions justify-center">
-                            <button className='btn btn-primary btn-md rounded px-12 mt-2 ' >কোরিয়ার করুন</button>
+                            <button className='btn btn-primary btn-md rounded px-12 mt-2 ' >কুরিয়ার  করুন</button>
 
                         </div>
                     </div>
                 </div>
 
             </div>
-        </div>
+
+
+        </div >
     );
 };
 
